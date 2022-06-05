@@ -1,4 +1,5 @@
-# Challenge-6
+# San_Francisco_Rental_Analysis
+
 ## one-click service - buy and rent
 This project offers the real estate investors the application to find properties in the San Francisco market that are viable investment opportunities.
 
